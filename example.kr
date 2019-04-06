@@ -1,0 +1,11 @@
+const PI = 3.14;
+aB = True;
+aC = 5;
+aS = 4.78;
+
+x = 2;
+y = 15;
+
+for(i=5;i<7;i++){
+    print i;
+}
